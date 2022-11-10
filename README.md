@@ -1,8 +1,6 @@
-```
-fsubject = """
-  Hi, I’m @Fsubject
-  I'm interested in the Python and web development
-  You can reach me by Discord and Twitter, but I prefer Discord!"""
+# Hi 👋!
+<a href="https://wakatime.com/@98d42707-b111-437c-8c48-2a5b1bfe2e1a"><img src="https://wakatime.com/badge/user/98d42707-b111-437c-8c48-2a5b1bfe2e1a.svg" alt="Total time coded since Nov 3 2022" /></a>
 
-print(fsubject)
-```
+- I am <a href="https://github.com/Fsubject">@Fsubject</a> 🧑‍💻
+- I am actually working on <a href="https://github.com/Fsubject/Database-Manager">Database Manager</a> 🖥️
+- I code in Python 🐍

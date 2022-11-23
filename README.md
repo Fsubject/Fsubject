@@ -3,3 +3,9 @@
 
 ### Fsubject's Github Statistics
 <img src="https://github-readme-stats.vercel.app/api?username=fsubject&show_icons=true&theme=dark"/>
+
+## Projects
+<a href="https://github.com/Fsubject/Discord-NewsBot-Python" target="_BLANK">NewsBot</a>
+<a href="https://github.com/Fsubject/Database-Manager" target="_BLANK">Databsae Manager & DBM</a>
+<a href="https://github.com/Fsubject/find-the-number" target="_BLANK">Find The Number (FTN)</a>
+<a href="https://github.com/Fsubject/YouPy" target="_BLANK">YouPy</a>

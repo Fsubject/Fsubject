@@ -14,4 +14,5 @@
 You can reach me by:
 * Discord: **Fsubject#1247**
 * Twitter: <a href="https://twitter.com/Fsubj_ect">**@Fsubj_ect**</a>
+<br/>
 If you contact me, please don't spam me, if I don't reply within the hour, it's normal, I remind you that I still go to school

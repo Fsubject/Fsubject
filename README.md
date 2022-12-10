@@ -15,3 +15,6 @@ You can reach me by:\
 (If you contact me, please don't spam me, if I don't reply within the hour, it's normal, I remind you that I still go to school)
 * Discord: **Fsubject#1247**
 * Twitter: <a href="https://twitter.com/Fsubj_ect">**@Fsubj_ect**</a>
+
+## Support Me ☕
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/fsubject)

@@ -6,7 +6,6 @@
 
 ## Projects 💻
 * <a href="https://top.gg/fr/bot/1038875433690730596" target="_BLANK">NewsBot</a> | Still updated
-* <a href="https://github.com/Fsubject/Discord-NewsBot-Python" target="_BLANK">NewsBot</a> | Final version
 * <a href="https://github.com/Fsubject/find-the-number" target="_BLANK">Find The Number (FTN)</a> | Final version
 * <a href="https://github.com/Fsubject/YouPy" target="_BLANK">YouPy</a> | Final version
 

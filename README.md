@@ -19,4 +19,3 @@ https://fr.fiverr.com/share/xqgNEa
 
 ## Support Me ☕
 Soon!
-// [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/fsubject)

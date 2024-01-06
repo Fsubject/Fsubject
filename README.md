@@ -13,9 +13,3 @@
 You can reach me by:\
 * Discord: **fsubject**
 * Twitter: <a href="https://twitter.com/Fsubj_ect">**@ffsubject**</a>
-
-## My Fiverr
-https://fr.fiverr.com/share/xqgNEa
-
-## Support Me ☕
-Soon!

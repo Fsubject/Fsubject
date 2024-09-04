@@ -5,7 +5,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=fsubject&show_icons=true&theme=dark"/>
 
 ## Projects 💻
-* <a href="https://twitter.com/BlackjackGameB" target="_BLANK">Blackjack Game Twitter Bot</a> | In development
+* <a href="https://github.com/newsbot-code" target="_BLANK">NewsBot source code</a> | In development
 * <a href="https://github.com/Fsubject/find-the-number" target="_BLANK">Find The Number (FTN)</a> | Final version
 * <a href="https://github.com/Fsubject/YouPy" target="_BLANK">YouPy</a> | Final version
 

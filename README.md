@@ -5,11 +5,10 @@
 <img src="https://github-readme-stats.vercel.app/api?username=fsubject&show_icons=true&theme=dark"/>
 
 ## Projects 💻
-* <a href="https://github.com/Fsubject/NewsBot-code" target="_BLANK">NewsBot source code</a> | In development
-* <a href="https://github.com/Fsubject/find-the-number" target="_BLANK">Find The Number (FTN)</a> | Final version
-* <a href="https://github.com/Fsubject/YouPy" target="_BLANK">YouPy</a> | Final version
+* <a href="https://github.com/Fsubject/NewsBot-code">NewsBot source code</a> | In development
+* <a href="https://github.com/Fsubject/find-the-number">Find The Number (FTN)</a> | Final version
+* <a href="https://github.com/Fsubject/YouPy">YouPy</a> | Final version
 
 ## Contact Me 📬
-You can reach me by:\
 * Discord: **fsubject**
 * Twitter: <a href="https://twitter.com/Fsubj_ect">**@ffsubject**</a>

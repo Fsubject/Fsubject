@@ -6,6 +6,7 @@
 
 ## Projects 💻
 * <a href="https://github.com/Fsubject/NewsBot-code">NewsBot source code</a> | In development
+* <a href="https://github.com/Fsubject/Rotating-Cube">3D Rotating cube</a> | Final version
 * <a href="https://github.com/Fsubject/find-the-number">Find The Number (FTN)</a> | Final version
 * <a href="https://github.com/Fsubject/YouPy">YouPy</a> | Final version
 

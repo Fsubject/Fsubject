@@ -5,8 +5,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=fsubject&show_icons=true&theme=dark"/>
 
 ## Projects 💻
-* <a href="https://github.com/Fsubject/NewsBot-code">NewsBot source code</a> | In development
-* <a href="https://github.com/Fsubject/Rotating-Cube">3D Rotating cube</a> | Final version
+* <a href="https://github.com/Fsubject/Rotating-Cube">3D Rotating cube</a> | Still working on it
+* <a href="https://github.com/Fsubject/NewsBot-code">NewsBot source code</a> | Still working on it
 * <a href="https://github.com/Fsubject/find-the-number">Find The Number (FTN)</a> | Final version
 * <a href="https://github.com/Fsubject/YouPy">YouPy</a> | Final version
 

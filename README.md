@@ -5,7 +5,7 @@ Python & C++ -> Best thing
 
 ## Projects 💻
 * <a href="https://github.com/Fsubject/Rotating-Cube">3D Rotating cube</a> | Still working on it
-* <a href="https://github.com/Fsubject/NewsBot-code">NewsBot source code</a> | Still working on it
+* <a href="https://github.com/Fsubject/NewsBot-code">NewsBot / Botzilla source code</a> | Final (public) version
 * <a href="https://github.com/Fsubject/find-the-number">Find The Number (FTN)</a> | Final version
 * <a href="https://github.com/Fsubject/YouPy">YouPy</a> | Final version
 
